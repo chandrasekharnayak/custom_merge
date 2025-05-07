@@ -1,0 +1,13 @@
+Reression assurance
+sanity assurance
+unit assurance
+adoc assurance
+exp assurance
+integration assurance
+smoke texting
+hotfix
+SDLC
+STLC
+waterfall
+agile
+
