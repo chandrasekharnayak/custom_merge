@@ -1,0 +1,29 @@
+Regression testing is a software testing process that verifies that a software application continues to function correctly after code changes, updates, or new features are added. It ensures that new changes haven't introduced unintended defects or broken existing functionalities. Essentially, it's about re-running previously passed test cases to ensure that everything still works as expected after modifications. 
+Here's a more detailed breakdown:
+Why is it important?
+Ensures Stability:
+Regression testing helps maintain the overall stability and quality of a software application by verifying that new changes haven't negatively impacted existing features. 
+Identifies Regressions:
+It helps catch "regressions," which are defects or bugs that are introduced or re-introduced into a software application after a change. 
+Maintains Functionality:
+Regression testing ensures that all functionalities of the software continue to work as intended, even after new features or bug fixes are added. 
+Increases Confidence:
+By verifying that existing functionalities remain intact, regression testing builds confidence in the quality and reliability of the software. 
+How is it done?
+Re-running Test Cases:
+Regression testing involves re-running a subset or the entire suite of previously passed test cases after code changes or updates. 
+Manual or Automated:
+Regression tests can be performed manually, but for larger projects or frequent updates, automation is often preferred to streamline the process. 
+Focus on Affected Areas:
+While some teams might re-run all test cases, others focus on a subset of tests that are most likely to be impacted by the changes. 
+Test Case Selection:
+Selecting the right test cases is crucial for efficient regression testing. This can involve prioritizing tests based on criticality, recent changes, and potential impact. 
+Example:
+Imagine a software application that allows users to manage their online accounts. After a new 
+
+Abcd
+DCBA
+XYZ
+ZXY
+Jbhj
+Jkbjk

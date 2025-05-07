@@ -1,0 +1,7 @@
+Reression testing
+smoke testing
+sanity testing
+unit testing
+adoc testing
+exp testing
+integration testing
